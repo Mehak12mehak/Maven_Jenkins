@@ -2,8 +2,8 @@
 
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>Sample_Maven_Project_ELF39</groupId>
-	<artifactId>Sample_Maven_Project_ELF39</artifactId>
+	<groupId>test_jenkins</groupId>
+	<artifactId>test_jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
@@ -31,7 +31,7 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.0</version>
-       
+       	
       </plugin>
 		</plugins>
 
