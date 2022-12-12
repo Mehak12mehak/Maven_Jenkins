@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-08T13:16:32 IST" name="Default suite" finished-at="2022-12-08T13:16:47 IST" duration-ms="15176">
+  <suite started-at="2022-12-12T12:47:24 IST" name="Default suite" finished-at="2022-12-12T12:47:28 IST" duration-ms="3925">
     <groups>
     </groups>
-    <test started-at="2022-12-08T13:16:32 IST" name="Default test" finished-at="2022-12-08T13:16:47 IST" duration-ms="15176">
-      <class name="test_jenkins.KtmTest">
-        <test-method signature="ktm()[pri:0, instance:test_jenkins.KtmTest@1817d444]" started-at="2022-12-08T13:16:32 IST" name="ktm" finished-at="2022-12-08T13:16:47 IST" duration-ms="15124" status="PASS">
+    <test started-at="2022-12-12T12:47:24 IST" name="Default test" finished-at="2022-12-12T12:47:28 IST" duration-ms="3925">
+      <class name="test_jenkins.browseropenTest">
+        <test-method signature="ktm()[pri:0, instance:test_jenkins.browseropenTest@1817d444]" started-at="2022-12-12T12:47:24 IST" name="ktm" finished-at="2022-12-12T12:47:28 IST" duration-ms="3877" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ktm -->
-      </class> <!-- test_jenkins.KtmTest -->
+      </class> <!-- test_jenkins.browseropenTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

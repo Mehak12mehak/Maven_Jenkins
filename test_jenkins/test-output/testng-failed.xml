@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test_jenkins.browseropen">
+      <class name="test_jenkins.KtmTest">
         <methods>
           <include name="ktm"/>
         </methods>
-      </class> <!-- test_jenkins.browseropen -->
+      </class> <!-- test_jenkins.KtmTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
